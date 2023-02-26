@@ -1,0 +1,8 @@
+Explanation:
+
+1. Declare two integer variables num1 and num2.
+2. Prompt the user to enter two integers.
+3. Read the user input into num1 and num2 using the cin operator.
+4. Use an if statement to compare num1 and num2. If num1 is greater, display a message indicating that num1 is greater. If num2 is greater, display a message indicating that num2 is greater. If they are equal, display a message indicating that they are equal.
+5. Use the cout operator to display the appropriate message to the user.
+6. Return 0 to indicate that the program has finished executing.
