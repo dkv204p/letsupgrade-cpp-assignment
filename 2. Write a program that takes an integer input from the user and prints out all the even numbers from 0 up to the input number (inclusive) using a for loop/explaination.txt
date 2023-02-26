@@ -1,0 +1,9 @@
+Explanation:
+
+1. Declare an integer variable input.
+2. Prompt the user to enter an integer.
+3. Read the user input into input using the cin operator.
+4. Use the cout operator to display a message indicating the even numbers to be printed.
+5. Use a for loop to iterate from 0 up to and including input. The loop variable i is initialized to 0, and on each iteration, it is incremented by 1.
+6. Use an if statement to check if i is even. If it is, use the cout operator to print i.
+7. Return 0 to indicate that the program has finished executing.
